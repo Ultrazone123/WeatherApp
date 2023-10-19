@@ -31,7 +31,12 @@ Open the app in your web browser to view real-time weather data.
 Acknowledgements
 Special thanks to JetScholar for inspiration
 
-cites
+Citation:
+Jet Scholar's original website:
+https://github.com/jetscholar/IoT-Weather.git 
+
+
+
 
 
 Feel free to customize, enhance, and share this weather app with others. Happy coding! 🌦️🚀

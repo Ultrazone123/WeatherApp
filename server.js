@@ -2,7 +2,7 @@ if (process.env.NODE_ENV !== 'production') {
     require('dotenv').config()
 }
 
-const port = 6901
+const port = 6909
 const express = require('express')
 const expressLayouts = require('express-ejs-layouts')
 const app = express()
