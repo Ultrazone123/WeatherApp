@@ -43,14 +43,12 @@ The data is collected through the Temperature Humidity sensor and then through i
 
 The app will be accessible at http://localhost:6908.
 
-# Setting Up Arduino:
+# Setting Up Arduino and Visual Studio:
 
 Connect the necessary sensors to your Arduino board and esp32. 
-Upload the Arduino code (Arduino_code.ino) to your Arduino board using the Arduino IDE.
-Accessing the Weather Data:
+Upload the Arduino code (Arduino_code.ino) to your Esp32 using the Arduino IDE.
 
-Ensure that your Arduino board is connected to the app.
-Open the app in your web browser to view real-time weather data.
+In Visual Studio, change the SSID and password as well as the IP address and local host to fit your specifications. Make sure you have npm installed as well. Afterwards do npm run dev and the URL should come up and you can access your webpage
 
 # Acknowledgements
 Special thanks to JetScholar for inspiration
