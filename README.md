@@ -45,7 +45,9 @@ Arduino IDE,
 
 Esp32,
 
-DHT11
+DHT11:
+
+![image](https://github.com/Ultrazone123/WeatherApp/assets/141389030/3c7d90fc-7620-41c9-96c1-fc5bb513940e)
 
 Development Environment: Visual Studio Code
 
