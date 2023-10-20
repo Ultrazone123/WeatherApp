@@ -1,5 +1,6 @@
-![image](https://github.com/Ultrazone123/WeatherApp/assets/141389030/5110460d-b0d7-4467-817c-60e3ce264b36)# WeatherApp
- Shows the weather and humidity
+# WeatherApp
+
+Shows the weather and humidity
 
 This Weather App, developed using Visual Studio Code, JavaScript, and Arduino, is a comprehensive solution that allows users to access real-time weather information seamlessly. This project combines the power of web technologies and Arduino hardware to provide accurate weather data, enhancing the user experience.
 
