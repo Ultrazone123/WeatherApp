@@ -62,10 +62,18 @@ Upload the Arduino code (Arduino_code. in) to your Esp32 using the Arduino IDE.
 
 In Visual Studio, change the SSID, password, IP address, and local host to fit your specifications. Make sure you have npm installed as well. Afterwards, do npm run dev, and the URL should come up, and you can access your webpage
 
-## Explaining Code:
+## Explaining Process:
 
-
-![image](<Proof_of_work/Screenshot 2023-10-20 124533.png>)
+1 Install libraries in arduino 
+2 running the code in arduino
+3 checking the serial monitor to check if the code works
+4 going onto visual studio code to change ip address, local host and SSID and Password
+5 putting nom run dev in the terminal to check if code worked
+6 changing ejs and css files 
+7 adding images
+8 changing readme
+9 adding proof
+10 submitting
 
 
 ## Acknowledgements
