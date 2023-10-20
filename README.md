@@ -65,14 +65,23 @@ In Visual Studio, change the SSID, password, IP address, and local host to fit y
 ## Explaining Process:
 
 1 Install libraries in arduino 
+
 2 running the code in arduino
+
 3 checking the serial monitor to check if the code works
+
 4 going onto visual studio code to change ip address, local host and SSID and Password
+
 5 putting nom run dev in the terminal to check if code worked
+
 6 changing ejs and css files 
+
 7 adding images
+
 8 changing readme
+
 9 adding proof
+
 10 submitting
 
 
