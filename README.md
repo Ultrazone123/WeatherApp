@@ -38,7 +38,15 @@ To install these libraries, tap on the bookshelf icon on the left side of the sc
 
 ## Technologies Used
 Frontend: CSS, JavaScript (Node.js, Express.js)
-Hardware: Arduino (sensors for temperature, humidity, etc.), Esp32 with humidity sensor
+
+Hardware: 
+
+Arduino IDE, 
+
+Esp32,
+
+DHT11
+
 Development Environment: Visual Studio Code
 
 The data is collected through the Temperature Humidity sensor and then through integration through visual studio code. The file is then converted into a webpage, accessible to those with the proper connection and IP address. 
